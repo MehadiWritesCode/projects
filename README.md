@@ -55,7 +55,7 @@ Source code is private. Live demos are linked below.
 <td align="center">
 <a href="https://rickshaw-bhara.vercel.app"><img src="./rickshaw-bhara.png" width="100%" alt="Rickshaw Bhara" /></a><br/>
 <b>Rickshaw Bhara</b><br/>
-<sub>Rickshaw fare calculator</sub><br/><br/>
+<sub>Rickshaw fare </sub><br/><br/>
 <a href="https://rickshaw-bhara.vercel.app"><img src="https://img.shields.io/badge/Live-Visit-2ea44f?style=for-the-badge" /></a>
 </td>
 </tr>
