@@ -29,13 +29,13 @@ Source code is private. Live demos are linked below.
 <td align="center" width="33%">
 <a href="https://cgcp-bd.vercel.app"><img src="./screenshots/cgcp.png" width="100%" alt="CGCP" /></a><br/>
 <b>CGCP</b><br/>
-<sub>Citizen-Government Connect Platform</sub><br/><br/>
+<sub>Civic reporting with AI verification & voice-enabled law chatbot</sub><br/><br/>
 <a href="https://cgcp-bd.vercel.app"><img src="https://img.shields.io/badge/Live-Visit-2ea44f?style=for-the-badge" /></a>
 </td>
 <td align="center" width="33%">
 <a href="https://kacher-dokan.vercel.app"><img src="./screenshots/kacher-dokan.png" width="100%" alt="Kacher Dokan" /></a><br/>
 <b>Kacher Dokan</b><br/>
-<sub>Online shop</sub><br/><br/>
+<sub>Hyperlocal marketplace for neighborhood shops</sub><br/><br/>
 <a href="https://kacher-dokan.vercel.app"><img src="https://img.shields.io/badge/Live-Visit-2ea44f?style=for-the-badge" /></a>
 </td>
 </tr>
@@ -43,19 +43,19 @@ Source code is private. Live demos are linked below.
 <td align="center">
 <a href="https://space-viz.netlify.app"><img src="./screenshots/space-viz.png" width="100%" alt="Space-viz" /></a><br/>
 <b>Space-viz</b><br/>
-<sub>Interactive astrophysics visualization</sub><br/><br/>
+<sub>Interactive 3D universe built with Three.js & GLSL shaders</sub><br/><br/>
 <a href="https://space-viz.netlify.app"><img src="https://img.shields.io/badge/Live-Visit-2ea44f?style=for-the-badge" /></a>
 </td>
 <td align="center">
 <a href="https://nixbird.com"><img src="./screenshots/nixbird.png" width="100%" alt="Nixbird" /></a><br/>
 <b>Nixbird</b><br/>
-<sub>Full-stack e-commerce platform</sub><br/><br/>
+<sub>Fashion store with COD, bKash send money & Steadfast API</sub><br/><br/>
 <a href="https://nixbird.com"><img src="https://img.shields.io/badge/Live-Visit-2ea44f?style=for-the-badge" /></a>
 </td>
 <td align="center">
 <a href="https://rickshaw-bhara.vercel.app"><img src="./screenshots/rickshaw-bhara.png" width="100%" alt="Rickshaw Bhara" /></a><br/>
 <b>Rickshaw Bhara</b><br/>
-<sub>Rickshaw fare calculator</sub><br/><br/>
+<sub>Check if your CNG or bus driver is overcharging</sub><br/><br/>
 <a href="https://rickshaw-bhara.vercel.app"><img src="https://img.shields.io/badge/Live-Visit-2ea44f?style=for-the-badge" /></a>
 </td>
 </tr>
@@ -63,19 +63,19 @@ Source code is private. Live demos are linked below.
 <td align="center">
 <a href="https://snapzen.vercel.app"><img src="./screenshots/snapzen.png" width="100%" alt="Snapzen" /></a><br/>
 <b>Snapzen</b><br/>
-<sub>Image resize & compress tool</sub><br/><br/>
+<sub>Privacy-first image toolkit with AI background remover</sub><br/><br/>
 <a href="https://snapzen.vercel.app"><img src="https://img.shields.io/badge/Live-Visit-2ea44f?style=for-the-badge" /></a>
 </td>
 <td align="center">
 <a href="https://keyra-vault.vercel.app"><img src="./screenshots/keyra-vault.png" width="100%" alt="Keyra Vault" /></a><br/>
 <b>Keyra Vault</b><br/>
-<sub>Password vault</sub><br/><br/>
+<sub>Zero-knowledge password manager with offline PWA</sub><br/><br/>
 <a href="https://keyra-vault.vercel.app"><img src="https://img.shields.io/badge/Live-Visit-2ea44f?style=for-the-badge" /></a>
 </td>
 <td align="center">
 <a href="https://smart-doto.vercel.app"><img src="./screenshots/smart-doto.png" width="100%" alt="Smart Doto" /></a><br/>
 <b>Smart Doto</b><br/>
-<sub>Smart to-do app</sub><br/><br/>
+<sub>AI-powered to-do PWA with push reminders</sub><br/><br/>
 <a href="https://smart-doto.vercel.app"><img src="https://img.shields.io/badge/Live-Visit-2ea44f?style=for-the-badge" /></a>
 </td>
 </tr>
@@ -83,19 +83,19 @@ Source code is private. Live demos are linked below.
 <td align="center">
 <a href="https://mehadi-uptime-monitor.vercel.app"><img src="./screenshots/uptime-monitor.png" width="100%" alt="Uptime Monitor" /></a><br/>
 <b>Uptime Monitor</b><br/>
-<sub>Website uptime monitor</sub><br/><br/>
+<sub>Website & API uptime monitor with Telegram/Discord alerts</sub><br/><br/>
 <a href="https://mehadi-uptime-monitor.vercel.app"><img src="https://img.shields.io/badge/Live-Visit-2ea44f?style=for-the-badge" /></a>
 </td>
 <td align="center">
 <a href="https://filmlyz.netlify.app"><img src="./screenshots/filmlyz.png" width="100%" alt="Filmlyz" /></a><br/>
 <b>Filmlyz</b><br/>
-<sub>Movie explorer</sub><br/><br/>
+<sub>Movie & TV tracker with ratings, lists & episode progress</sub><br/><br/>
 <a href="https://filmlyz.netlify.app"><img src="https://img.shields.io/badge/Live-Visit-2ea44f?style=for-the-badge" /></a>
 </td>
 <td align="center">
 <a href="https://repo-explainer.netlify.app"><img src="./screenshots/repo-explainer.png" width="100%" alt="Repo Explainer" /></a><br/>
 <b>Repo Explainer</b><br/>
-<sub>Explains GitHub repositories</sub><br/><br/>
+<sub>AI onboarding guide for any public GitHub repo</sub><br/><br/>
 <a href="https://repo-explainer.netlify.app"><img src="https://img.shields.io/badge/Live-Visit-2ea44f?style=for-the-badge" /></a>
 </td>
 </tr>
@@ -122,7 +122,7 @@ Source code is private. Live demos are linked below.
 <td align="center" width="50%">
 <img src="./screenshots/shiftc.png" width="100%" alt="ShiftC" /><br/>
 <b>ShiftC</b><br/>
-<sub>Metamorphic compiler: Lexer → Parser → AST → IR → Mutate → CodeGen</sub><br/><br/>
+<sub>Custom programming language compiler with code mutation</sub><br/><br/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
 <img src="https://img.shields.io/badge/Flex-555555?style=flat-square" />
 <img src="https://img.shields.io/badge/Bison-555555?style=flat-square" />
